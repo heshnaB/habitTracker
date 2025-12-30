@@ -1,3 +1,5 @@
+Currently in progress
+
 # habitTracker
 A side project to create a habit tracker where the user can track their habits by either adding them manually or using ChatGPT.
 
