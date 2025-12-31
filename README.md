@@ -7,7 +7,7 @@ A side project to create a habit tracker where the user can track their habits b
 - [Overview](#overview)
 - [Goals](#Goals)
 - [UserStories](#UserStories)
-- [Main Features](#Main#Features)
+- [MainFeatures](#MainFeatures)
 
 ## Overview
 The purpose of this project is to highlight my front-end and back-end skills.
@@ -40,7 +40,7 @@ Our app: personal assistant that assists the user by creating a schedule and sav
 - Too many words alone can be hard to follow and make the goal seem boring                                 → User can upload images to make their goals more readable.
 - Working on goals can feel lonely and self validation can be hard to follow through.                      → User can keep a streak going, streak is valid if user completes the top three tasks of the day / completing more than three tasks means they                                                                                                                 get a heart that fills a cup / If they miss a day of recording, user can use a heart so they dont lose their streak / user gets to pick if they                                                                                                              want energy or a heart for the cup)
 
-## Main Features
+## MainFeatures
 ChatGPT - takes input of goals and creates a schedule.
 Build schedule
 Notifications
