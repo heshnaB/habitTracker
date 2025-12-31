@@ -41,12 +41,12 @@ Our app: personal assistant that assists the user by creating a schedule and sav
 - Working on goals can feel lonely and self validation can be hard to follow through.                      → User can keep a streak going, streak is valid if user completes the top three tasks of the day / completing more than three tasks means they                                                                                                                 get a heart that fills a cup / If they miss a day of recording, user can use a heart so they dont lose their streak / user gets to pick if they                                                                                                              want energy or a heart for the cup)
 
 ## MainFeatures
-ChatGPT - takes input of goals and creates a schedule.
-Build schedule
-Notifications
-Charts from data
-Data input from form and they can save it
-Page navigation
-Search bar
-Scrolling
+- ChatGPT - takes input of goals and creates a schedule.
+- Build schedule
+- Notifications
+- Charts from data
+- Data input from form and they can save it
+- Page navigation
+- Search bar
+- Scrolling
 
