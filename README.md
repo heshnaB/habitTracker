@@ -16,7 +16,7 @@ The Moodboard of the project is:
 
 The image represents the cozy tech, calm, discipline, and focus moods of the application.
 
-## IdeasandGoals
+## Ideas and Goals
 Target Audience:
 Zillenials
 
