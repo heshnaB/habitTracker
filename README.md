@@ -5,7 +5,7 @@ A side project to create a habit tracker where the user can track their habits b
 
 ## Table of Contents
 - [Overview](#overview)
-- [Ideas and Goals](#IdeasandGoals)
+- [Ideas and Goals](#Ideas_and_Goals)
 
 ## Overview
 The purpose of this project is to highlight my front-end and back-end skills.
@@ -16,7 +16,7 @@ The Moodboard of the project is:
 
 The image represents the cozy tech, calm, discipline, and focus moods of the application.
 
-## Ideas and Goals
+## IdeasandGoals
 Target Audience:
 Zillenials
 
